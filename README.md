@@ -10,6 +10,7 @@ Desarrolle la mayoría de ejercicios en clase. Para cada punto cree un programa 
 1. De los retos anteriores selecione 3 funciones y escribalas en forma de lambdas.
 2. De los retos anteriores selecione 3 funciones y escribalas con argumentos no definidos (*args).
 3. Escriba una función recursiva para calcular la operación de la potencia.
+
 Utilice la siguiente plantilla de code para contar el tiempo:
 ```python
 import time
