@@ -23,5 +23,5 @@ timer = end_time - start_time
 print(timer)
 ```
 4. Realice pruebas para calcular fibonacci con iteración o con recursión. Determine desde que número de la serie la diferencia de tiempo se vuelve significativa.
-5. Crear cuenta en stackoverflow y adjuntar imagen en el repo.
+5. Crear cuenta en stackoverflow y adjuntar imagen en el repo. (Revisar en los anexos)
 6. https://www.linkedin.com/in/eduard-avellaneda-velasquez-356148208/
